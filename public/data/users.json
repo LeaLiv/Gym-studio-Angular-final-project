@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "username": "dana123",
+    "password": "passDana!",
+    "name": "דנה כהן",
+    "email": "dana@example.com",
+    "role": "מורה להתעמלות"
+  },
+  {
+    "id": 2,
+    "username": "yossi456",
+    "password": "passYossi@",
+    "name": "יוסי לוי",
+    "email": "yossi@example.com",
+    "role": "מזכירת רישום"
+  },
+  {
+    "id": 3,
+    "username": "mira789",
+    "password": "miraPass#",
+    "name": "מירה ברק",
+    "email": "mira@example.com",
+    "role": "מורה להתעמלות"
+  },
+  {
+    "id": 4,
+    "username": "ronit111",
+    "password": "ronit123!",
+    "name": "רונית קדם",
+    "email": "ronit@example.com",
+    "role": "מזכירת רישום"
+  },
+  {
+    "id": 5,
+    "username": "shai222",
+    "password": "shaiPwd@",
+    "name": "שי בר",
+    "email": "shai@example.com",
+    "role": "מורה להתעמלות"
+  },
+  {
+    "id": 6,
+    "username": "tamar333",
+    "password": "tamar321#",
+    "name": "תמר שלו",
+    "email": "tamar@example.com",
+    "role": "מזכירת רישום"
+  },
+  {
+    "id": 7,
+    "username": "amit444",
+    "password": "amitSafe1!",
+    "name": "עמית לוי",
+    "email": "amit@example.com",
+    "role": "מורה להתעמלות"
+  },
+  {
+    "id": 8,
+    "username": "liron555",
+    "password": "liron!987",
+    "name": "לירון כהן",
+    "email": "liron@example.com",
+    "role": "מזכירת רישום"
+  },
+  {
+    "id": 9,
+    "username": "noa666",
+    "password": "noaPwd456#",
+    "name": "נועה לביא",
+    "email": "noa@example.com",
+    "role": "מורה להתעמלות"
+  },
+  {
+    "id": 10,
+    "username": "guy777",
+    "password": "guyStrong$",
+    "name": "גיא מזרחי",
+    "email": "guy@example.com",
+    "role": "מזכירת רישום"
+  }
+]
