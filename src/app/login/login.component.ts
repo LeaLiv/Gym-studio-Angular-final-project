@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { FormsModule } from '@angular/forms';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { Router } from '@angular/router';
 import { UserService } from '../services/user.service';
 
@@ -27,6 +27,7 @@ this.userService.login(this.username,this.password).subscribe(user=>{
     else{ 
       this.router.navigate(["/registrants"])
        sessionStorage.setItem("role","secretary");
+       sessionStorage.setItem("secretaryName",user.name)
     }
    
   }

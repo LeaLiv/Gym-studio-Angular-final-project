@@ -78,5 +78,22 @@
     "name": "גיא מזרחי",
     "email": "guy@example.com",
     "role": "מזכירת רישום"
+  },
+  {
+    "id": 10,
+    "username": "lea123",
+    "password": "lea123!",
+    "name": "לאה ",
+    "email": "lea@example.com",
+    "role": "מזכירת רישום"
+  }
+  ,
+  {
+    "id": 10,
+    "username": "lea1234",
+    "password": "lea1234!",
+    "name": "לאה ",
+    "email": "lea@example.com",
+    "role": "מורה להתעמלות"
   }
 ]

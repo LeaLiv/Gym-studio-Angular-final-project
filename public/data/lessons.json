@@ -1,7 +1,7 @@
 [
   {
     "name": "פילאטיס בוקר",
-    "teacher": "רונית לוי",
+    "teacher": "רונית קדם",
     "sessions": 12,
     "startDate": "2025-06-01",
     "price": 300,
@@ -28,7 +28,7 @@
   },
   {
     "name": "אירובי קצבי",
-    "teacher": "ליאן ברק",
+    "teacher": "מירה ברק",
     "sessions": 14,
     "startDate": "2025-06-04",
     "price": 320,
@@ -46,7 +46,7 @@
   },
   {
     "name": "פילאטיס ערב",
-    "teacher": "רונית לוי",
+    "teacher": "רונית קדם",
     "sessions": 12,
     "startDate": "2025-06-09",
     "price": 310,
@@ -57,7 +57,7 @@
     "name": "יוגה מתקדמות",
     "teacher": "דנה כהן",
     "sessions": 12,
-    "startDate": "2025-06-10",
+    "startDate": "2025-04-10",
     "price": 350,
     "day": "שלישי",
     "time": "19:00"
@@ -73,7 +73,7 @@
   },
   {
     "name": "עיצוב וחיטוב",
-    "teacher": "ליאן ברק",
+    "teacher": "מירה ברק",
     "sessions": 10,
     "startDate": "2025-06-12",
     "price": 290,
@@ -91,7 +91,7 @@
   },
   {
     "name": "התעמלות לנערות",
-    "teacher": "רונית לוי",
+    "teacher": "רונית קדם",
     "sessions": 10,
     "startDate": "2025-06-15",
     "price": 260,
@@ -118,7 +118,7 @@
   },
   {
     "name": "חיטוב קיץ",
-    "teacher": "ליאן ברק",
+    "teacher": "מירה ברק",
     "sessions": 12,
     "startDate": "2025-06-18",
     "price": 310,
@@ -136,7 +136,7 @@
   },
   {
     "name": "יוגה לנשימה מודעת",
-    "teacher": "רונית לוי",
+    "teacher": "רונית קדם",
     "sessions": 10,
     "startDate": "2025-06-22",
     "price": 270,
@@ -163,7 +163,7 @@
   },
   {
     "name": "פילאטיס נשי",
-    "teacher": "ליאן ברק",
+    "teacher": "מירה ברק",
     "sessions": 8,
     "startDate": "2025-06-25",
     "price": 250,
