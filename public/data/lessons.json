@@ -37,7 +37,7 @@
   },
   {
     "name": "קיקבוקס לנשים",
-    "teacher": "מיכל ישראלי",
+    "teacher": "עמית לוי",
     "sessions": 10,
     "startDate": "2025-06-05",
     "price": 300,
@@ -82,7 +82,7 @@
   },
   {
     "name": "זומבה",
-    "teacher": "מיכל ישראלי",
+    "teacher": "עמית לוי",
     "sessions": 8,
     "startDate": "2025-06-13",
     "price": 240,
@@ -127,7 +127,7 @@
   },
   {
     "name": "חיזוק כללי",
-    "teacher": "מיכל ישראלי",
+    "teacher": "עמית לוי",
     "sessions": 8,
     "startDate": "2025-06-19",
     "price": 230,
@@ -172,11 +172,237 @@
   },
   {
     "name": "התעמלות לבוקר רגוע",
-    "teacher": "מיכל ישראלי",
+    "teacher": "עמית לוי",
     "sessions": 7,
     "startDate": "2025-06-26",
     "price": 210,
     "day": "חמישי",
     "time": "07:30"
+  },
+  {
+    "name": "אירובי בוקר",
+    "teacher": "עמית לוי",
+    "sessions": 10,
+    "startDate": "2025-06-27",
+    "price": 308,
+    "day": "רביעי",
+    "time": "09:30"
+  },
+  {
+    "name": "עיצוב קצבי",
+    "teacher": "מירה ברק",
+    "sessions": 8,
+    "startDate": "2025-06-28",
+    "price": 202,
+    "day": "ראשון",
+    "time": "20:00"
+  },
+  {
+    "name": "חיזוק למתחילות",
+    "teacher": "עמית לוי",
+    "sessions": 10,
+    "startDate": "2025-06-29",
+    "price": 310,
+    "day": "שלישי",
+    "time": "08:00"
+  },
+  {
+    "name": "התעמלות קצבי",
+    "teacher": "מירה ברק",
+    "sessions": 14,
+    "startDate": "2025-06-30",
+    "price": 303,
+    "day": "רביעי",
+    "time": "08:00"
+  },
+  {
+    "name": "יוגה כללי",
+    "teacher": "רונית קדם",
+    "sessions": 10,
+    "startDate": "2025-07-01",
+    "price": 201,
+    "day": "חמישי",
+    "time": "09:30"
+  },
+  {
+    "name": "חיטוב כללי",
+    "teacher": "שרית אלון",
+    "sessions": 12,
+    "startDate": "2025-07-02",
+    "price": 344,
+    "day": "שני",
+    "time": "17:00"
+  },
+  {
+    "name": "חיטוב ערב",
+    "teacher": "רונית קדם",
+    "sessions": 8,
+    "startDate": "2025-07-03",
+    "price": 322,
+    "day": "חמישי",
+    "time": "08:00"
+  },
+  {
+    "name": "פילאטיס נשי",
+    "teacher": "דנה כהן",
+    "sessions": 14,
+    "startDate": "2025-07-04",
+    "price": 309,
+    "day": "שלישי",
+    "time": "08:00"
+  },
+  {
+    "name": "חיזוק נשי",
+    "teacher": "מירה ברק",
+    "sessions": 14,
+    "startDate": "2025-07-05",
+    "price": 338,
+    "day": "שלישי",
+    "time": "09:30"
+  },
+  {
+    "name": "גמישות רב גילאי",
+    "teacher": "דנה כהן",
+    "sessions": 8,
+    "startDate": "2025-07-06",
+    "price": 320,
+    "day": "ראשון",
+    "time": "19:00"
+  },
+  {
+    "name": "התעמלות ערב",
+    "teacher": "דנה כהן",
+    "sessions": 12,
+    "startDate": "2025-07-07",
+    "price": 305,
+    "day": "שני",
+    "time": "10:30"
+  },
+  {
+    "name": "קיקבוקס קצבי",
+    "teacher": "רבקה רוזן",
+    "sessions": 12,
+    "startDate": "2025-07-08",
+    "price": 229,
+    "day": "רביעי",
+    "time": "08:00"
+  },
+  {
+    "name": "קיקבוקס כללי",
+    "teacher": "רבקה רוזן",
+    "sessions": 8,
+    "startDate": "2025-07-09",
+    "price": 316,
+    "day": "רביעי",
+    "time": "08:00"
+  },
+  {
+    "name": "חיטוב נשי",
+    "teacher": "דנה כהן",
+    "sessions": 12,
+    "startDate": "2025-07-10",
+    "price": 340,
+    "day": "חמישי",
+    "time": "18:30"
+  },
+  {
+    "name": "עיצוב בוקר",
+    "teacher": "שרית אלון",
+    "sessions": 6,
+    "startDate": "2025-07-11",
+    "price": 250,
+    "day": "ראשון",
+    "time": "20:00"
+  },
+  {
+    "name": "מתיחות רב גילאי",
+    "teacher": "מירה ברק",
+    "sessions": 14,
+    "startDate": "2025-07-12",
+    "price": 266,
+    "day": "חמישי",
+    "time": "10:30"
+  },
+  {
+    "name": "זומבה בוקר",
+    "teacher": "רבקה רוזן",
+    "sessions": 12,
+    "startDate": "2025-07-13",
+    "price": 277,
+    "day": "חמישי",
+    "time": "19:00"
+  },
+  {
+    "name": "ספינינג נשי",
+    "teacher": "עמית לוי",
+    "sessions": 14,
+    "startDate": "2025-07-14",
+    "price": 207,
+    "day": "שלישי",
+    "time": "17:00"
+  },
+  {
+    "name": "אירובי קצבי",
+    "teacher": "רונית קדם",
+    "sessions": 10,
+    "startDate": "2025-07-15",
+    "price": 268,
+    "day": "רביעי",
+    "time": "10:30"
+  },
+  {
+    "name": "קיקבוקס בוקר",
+    "teacher": "רבקה רוזן",
+    "sessions": 12,
+    "startDate": "2025-07-16",
+    "price": 296,
+    "day": "שלישי",
+    "time": "20:00"
+  }
+,
+  {
+    "name": "יוגה בוקר רגוע",
+    "teacher": "נועה לביא",
+    "sessions": 10,
+    "startDate": "2025-07-17",
+    "price": 280,
+    "day": "ראשון",
+    "time": "07:30"
+  },
+  {
+    "name": "חיזוק ושיווי משקל",
+    "teacher": "נועה לביא",
+    "sessions": 8,
+    "startDate": "2025-07-21",
+    "price": 240,
+    "day": "שלישי",
+    "time": "18:00"
+  },
+  {
+    "name": "פילאטיס ערב רגוע",
+    "teacher": "נועה לביא",
+    "sessions": 12,
+    "startDate": "2025-07-24",
+    "price": 300,
+    "day": "חמישי",
+    "time": "20:00"
+  },
+  {
+    "name": "מתיחות לנשים",
+    "teacher": "נועה לביא",
+    "sessions": 6,
+    "startDate": "2025-07-28",
+    "price": 190,
+    "day": "שני",
+    "time": "10:30"
+  },
+  {
+    "name": "עיצוב דינמי",
+    "teacher": "נועה לביא",
+    "sessions": 10,
+    "startDate": "2025-08-01",
+    "price": 270,
+    "day": "שישי",
+    "time": "08:00"
   }
 ]

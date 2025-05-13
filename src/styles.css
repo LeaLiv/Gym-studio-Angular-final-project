@@ -47,6 +47,7 @@ mat-card-header{
   padding: 4px 10px;
   border-radius: 5px;
   cursor: pointer;
+  line-height:normal !important;
 }
 .details-button:hover {
   background-color: #456fa0;
