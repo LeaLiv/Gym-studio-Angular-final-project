@@ -1,1 +1,6 @@
-<p>class-list works!</p>
+<h2>שלום {{teacherName}}</h2>
+<div class="galery">
+    <app-class-details *ngFor="let lesson of clsses" [lessonDetails]="lesson">
+
+    </app-class-details>
+</div>

@@ -21,6 +21,7 @@ this.userService.login(this.username,this.password).subscribe(user=>{
     if(user.role==='מורה להתעמלות'){
       this.router.navigate(["/classList"])
       sessionStorage.setItem("role","teacher");
+      sessionStorage.setItem("teacerName",user.name)
     }
       
     else{ 

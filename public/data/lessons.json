@@ -1,0 +1,182 @@
+[
+  {
+    "name": "פילאטיס בוקר",
+    "teacher": "רונית לוי",
+    "sessions": 12,
+    "startDate": "2025-06-01",
+    "price": 300,
+    "day": "ראשון",
+    "time": "08:30"
+  },
+  {
+    "name": "יוגה נשית",
+    "teacher": "דנה כהן",
+    "sessions": 10,
+    "startDate": "2025-06-02",
+    "price": 280,
+    "day": "שני",
+    "time": "09:00"
+  },
+  {
+    "name": "התעמלות אחרי לידה",
+    "teacher": "שרית אלון",
+    "sessions": 8,
+    "startDate": "2025-06-03",
+    "price": 250,
+    "day": "שלישי",
+    "time": "10:00"
+  },
+  {
+    "name": "אירובי קצבי",
+    "teacher": "ליאן ברק",
+    "sessions": 14,
+    "startDate": "2025-06-04",
+    "price": 320,
+    "day": "רביעי",
+    "time": "18:00"
+  },
+  {
+    "name": "קיקבוקס לנשים",
+    "teacher": "מיכל ישראלי",
+    "sessions": 10,
+    "startDate": "2025-06-05",
+    "price": 300,
+    "day": "חמישי",
+    "time": "19:00"
+  },
+  {
+    "name": "פילאטיס ערב",
+    "teacher": "רונית לוי",
+    "sessions": 12,
+    "startDate": "2025-06-09",
+    "price": 310,
+    "day": "שני",
+    "time": "20:00"
+  },
+  {
+    "name": "יוגה מתקדמות",
+    "teacher": "דנה כהן",
+    "sessions": 12,
+    "startDate": "2025-06-10",
+    "price": 350,
+    "day": "שלישי",
+    "time": "19:00"
+  },
+  {
+    "name": "חיזוק רצפת אגן",
+    "teacher": "שרית אלון",
+    "sessions": 6,
+    "startDate": "2025-06-11",
+    "price": 180,
+    "day": "רביעי",
+    "time": "08:00"
+  },
+  {
+    "name": "עיצוב וחיטוב",
+    "teacher": "ליאן ברק",
+    "sessions": 10,
+    "startDate": "2025-06-12",
+    "price": 290,
+    "day": "חמישי",
+    "time": "17:30"
+  },
+  {
+    "name": "זומבה",
+    "teacher": "מיכל ישראלי",
+    "sessions": 8,
+    "startDate": "2025-06-13",
+    "price": 240,
+    "day": "שישי",
+    "time": "09:00"
+  },
+  {
+    "name": "התעמלות לנערות",
+    "teacher": "רונית לוי",
+    "sessions": 10,
+    "startDate": "2025-06-15",
+    "price": 260,
+    "day": "ראשון",
+    "time": "16:00"
+  },
+  {
+    "name": "שיעור בטן גב",
+    "teacher": "דנה כהן",
+    "sessions": 9,
+    "startDate": "2025-06-16",
+    "price": 270,
+    "day": "שני",
+    "time": "18:30"
+  },
+  {
+    "name": "ספינינג לנשים",
+    "teacher": "שרית אלון",
+    "sessions": 10,
+    "startDate": "2025-06-17",
+    "price": 320,
+    "day": "שלישי",
+    "time": "20:00"
+  },
+  {
+    "name": "חיטוב קיץ",
+    "teacher": "ליאן ברק",
+    "sessions": 12,
+    "startDate": "2025-06-18",
+    "price": 310,
+    "day": "רביעי",
+    "time": "17:00"
+  },
+  {
+    "name": "חיזוק כללי",
+    "teacher": "מיכל ישראלי",
+    "sessions": 8,
+    "startDate": "2025-06-19",
+    "price": 230,
+    "day": "חמישי",
+    "time": "08:30"
+  },
+  {
+    "name": "יוגה לנשימה מודעת",
+    "teacher": "רונית לוי",
+    "sessions": 10,
+    "startDate": "2025-06-22",
+    "price": 270,
+    "day": "ראשון",
+    "time": "19:00"
+  },
+  {
+    "name": "סדנת מתיחות",
+    "teacher": "דנה כהן",
+    "sessions": 6,
+    "startDate": "2025-06-23",
+    "price": 200,
+    "day": "שני",
+    "time": "10:30"
+  },
+  {
+    "name": "זומבה קצבית",
+    "teacher": "שרית אלון",
+    "sessions": 10,
+    "startDate": "2025-06-24",
+    "price": 290,
+    "day": "שלישי",
+    "time": "18:00"
+  },
+  {
+    "name": "פילאטיס נשי",
+    "teacher": "ליאן ברק",
+    "sessions": 8,
+    "startDate": "2025-06-25",
+    "price": 250,
+    "day": "רביעי",
+    "time": "09:30"
+  },
+  {
+    "name": "התעמלות לבוקר רגוע",
+    "teacher": "מיכל ישראלי",
+    "sessions": 7,
+    "startDate": "2025-06-26",
+    "price": 210,
+    "day": "חמישי",
+    "time": "07:30"
+  }
+]
