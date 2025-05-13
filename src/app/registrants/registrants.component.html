@@ -1,40 +1,6 @@
 <h1 id="nameTitle">שלום {{sesecretary}}</h1>
-<table mat-table [dataSource]="registrationList" class="mat-elevation-z8" dir="rtl">
-
-  <!--- Note that these columns can be defined in any order.
-        The actual rendered columns are set as a property on the row definition" -->
-
-  <!-- Position Column -->
-  <ng-container matColumnDef="fullName">
-    <th mat-header-cell *matHeaderCellDef> שם  </th>
-    <td mat-cell *matCellDef="let element"> {{element.firstName}} {{element.lastName}} </td>
-  </ng-container>
-
-  <!-- Name Column -->
-  <ng-container matColumnDef="phone">
-    <th mat-header-cell *matHeaderCellDef> טלפון </th>
-    <td mat-cell *matCellDef="let element"> {{element.phone}} </td>
-  </ng-container>
-
-  <!-- Weight Column -->
-  <ng-container matColumnDef="id">
-    <th mat-header-cell *matHeaderCellDef> ת.ז. </th>
-    <td mat-cell *matCellDef="let element"> {{element.id}} </td>
-  </ng-container>
-
-  <!-- Symbol Column -->
-  <ng-container matColumnDef="lesson">
-    <th mat-header-cell *matHeaderCellDef> נרשמה לשיעור </th>
-    <td mat-cell *matCellDef="let element"> {{element.lesson}} </td>
-  </ng-container>
-
-    <ng-container matColumnDef="paid">
-    <th mat-header-cell *matHeaderCellDef>האם שילמה</th>
-    <td mat-cell *matCellDef="let element"> {{element.paid}} </td>
-  </ng-container>
-
-
-  <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
-  <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
-</table>
-
+<ag-grid-angular [rowData]="registrationList" [columnDefs]="colDefs" [gridOptions]="gridOptions" [pagination]="true"
+        [paginationPageSizeSelector]="[10,20,50]" [paginationPageSize]="10" style="width: 100%; height: 500px;"
+      >
+</ag-grid-angular>
+<!-- /*  [paginationPageSizeSelector]="[10,20,50]"*/ -->

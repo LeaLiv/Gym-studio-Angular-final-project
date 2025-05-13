@@ -40,3 +40,14 @@ mat-card-header{
 /* table{
   direction: rtl !important;
 } */
+ .details-button {
+  background-color: #4c98af;
+  color: white;
+  border: none;
+  padding: 4px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.details-button:hover {
+  background-color: #456fa0;
+}

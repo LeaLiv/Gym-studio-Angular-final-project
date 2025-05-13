@@ -9,10 +9,10 @@
   },
   {
     "id": 2,
-    "username": "yossi456",
-    "password": "passYossi@",
-    "name": "יוסי לוי",
-    "email": "yossi@example.com",
+    "username": "sara456",
+    "password": "passSara@",
+    "name": "שרה לוי",
+    "email": "sara@example.com",
     "role": "מזכירת רישום"
   },
   {
@@ -33,10 +33,10 @@
   },
   {
     "id": 5,
-    "username": "shai222",
-    "password": "shaiPwd@",
-    "name": "שי בר",
-    "email": "shai@example.com",
+    "username": "shira222",
+    "password": "shiraPwd@",
+    "name": "שירה בר",
+    "email": "shira@example.com",
     "role": "מורה להתעמלות"
   },
   {
@@ -73,27 +73,26 @@
   },
   {
     "id": 10,
-    "username": "guy777",
-    "password": "guyStrong$",
-    "name": "גיא מזרחי",
-    "email": "guy@example.com",
+    "username": "lea777",
+    "password": "leaStrong$",
+    "name": "לאה מזרחי",
+    "email": "lea@example.com",
     "role": "מזכירת רישום"
   },
   {
-    "id": 10,
-    "username": "lea123",
-    "password": "lea123!",
-    "name": "לאה ",
-    "email": "lea@example.com",
+    "id": 11,
+    "username": "chaya123",
+    "password": "chaya123!",
+    "name": "חיה בלום",
+    "email": "chaya@example.com",
     "role": "מזכירת רישום"
-  }
-  ,
+  },
   {
-    "id": 10,
-    "username": "lea1234",
-    "password": "lea1234!",
-    "name": "לאה ",
-    "email": "lea@example.com",
+    "id": 12,
+    "username": "rivka1234",
+    "password": "rivka1234!",
+    "name": "רבקה רוזן",
+    "email": "rivka@example.com",
     "role": "מורה להתעמלות"
   }
 ]

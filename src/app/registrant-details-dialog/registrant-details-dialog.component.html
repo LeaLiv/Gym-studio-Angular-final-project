@@ -1,0 +1,14 @@
+<div dir="rtl">
+  <h2 mat-dialog-title>פרטי נרשמת</h2>
+  <mat-dialog-content >
+    <p><strong>שם:</strong> {{ data.firstName }} {{ data.lastName }}</p>
+    <p><strong>טלפון:</strong> {{ data.phone }}</p>
+    <p><strong>תעודת זהות:</strong> {{ data.id }}</p>
+        <p><strong>מחיר:</strong> {{ data.price }}</p>
+    <!-- <p><strong>שיעור:</strong> {{ data.lesson }}</p> -->
+    <!-- <p><strong>שולם:</strong> {{ data.paid ? 'כן' : 'לא' }}</p> -->
+  </mat-dialog-content>
+  <mat-dialog-actions >
+    <button mat-button mat-dialog-close>סגור</button>
+  </mat-dialog-actions>
+</div>
